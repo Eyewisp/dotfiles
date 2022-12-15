@@ -6,3 +6,5 @@ cenas para instalar:
   - alacritty
   - zsh
   - nerd-fonts-complete
+  - nitrogen
+  - picom
